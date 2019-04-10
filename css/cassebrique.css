@@ -1,0 +1,36 @@
+
+ /* body {
+
+   background-image: url("bureau.jpg");
+   background-repeat: no-repeat;
+   width:1600px;
+   height:1000px;
+   background-size: 100%;
+ } */
+ #conteneur {
+   border: 1px solid rgb(10, 226, 226);
+   margin: 0 auto;
+   background: rgb(254, 255, 249);
+   text-align: center;
+   border-color: rgb(11, 129, 138);
+   background-repeat: no-repeat;
+ }
+
+ h1 {
+   text-align: center;
+   font-variant: small-caps;
+   color: gold;
+ }
+
+ #vie {
+   color: rgba(230, 215, 18, 0.959);
+   font-size: 38px;
+   font-family: sans-serif;
+   font-weight: bold;
+ }
+
+#canvasElem{
+color: blue;
+
+
+ }
